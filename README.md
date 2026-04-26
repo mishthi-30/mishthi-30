@@ -92,7 +92,7 @@ If you are looking for someone who is motivated, coachable, and serious about gr
 
 <p>
   <a href="https://github.com/mishthi-30">
-    <img src="https://img.shields.io/badge/GitHub-mishthi-30-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-Mishthi--30-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
 </p>
 
